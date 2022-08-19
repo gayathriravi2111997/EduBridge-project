@@ -1,2 +1,4 @@
-# EduBridge-project
-Disney movies and Box Office Success
+ NAME : Gayathri R
+ BATACH :7229-EXL DATA ANALYASIS
+ Enrollment Number :EBEON0322583927
+
